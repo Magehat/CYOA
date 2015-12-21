@@ -1,0 +1,13 @@
+c:\users\jeffrey\documents\visual studio 2013\Projects\CYOACreator\CYOACreator\bin\Debug\CYOACreator.exe.config
+c:\users\jeffrey\documents\visual studio 2013\Projects\CYOACreator\CYOACreator\bin\Debug\CYOACreator.exe
+c:\users\jeffrey\documents\visual studio 2013\Projects\CYOACreator\CYOACreator\bin\Debug\CYOACreator.pdb
+c:\users\jeffrey\documents\visual studio 2013\Projects\CYOACreator\CYOACreator\obj\Debug\CYOACreator.csprojResolveAssemblyReference.cache
+c:\users\jeffrey\documents\visual studio 2013\Projects\CYOACreator\CYOACreator\obj\Debug\MainWindow.baml
+c:\users\jeffrey\documents\visual studio 2013\Projects\CYOACreator\CYOACreator\obj\Debug\MainWindow.g.cs
+c:\users\jeffrey\documents\visual studio 2013\Projects\CYOACreator\CYOACreator\obj\Debug\App.g.cs
+c:\users\jeffrey\documents\visual studio 2013\Projects\CYOACreator\CYOACreator\obj\Debug\CYOACreator_MarkupCompile.cache
+c:\users\jeffrey\documents\visual studio 2013\Projects\CYOACreator\CYOACreator\obj\Debug\CYOACreator.g.resources
+c:\users\jeffrey\documents\visual studio 2013\Projects\CYOACreator\CYOACreator\obj\Debug\CYOACreator.Properties.Resources.resources
+c:\users\jeffrey\documents\visual studio 2013\Projects\CYOACreator\CYOACreator\obj\Debug\CYOACreator.csproj.GenerateResource.Cache
+c:\users\jeffrey\documents\visual studio 2013\Projects\CYOACreator\CYOACreator\obj\Debug\CYOACreator.exe
+c:\users\jeffrey\documents\visual studio 2013\Projects\CYOACreator\CYOACreator\obj\Debug\CYOACreator.pdb
